@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#main {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+#img-div {
+    width:100%;
+    margin-bottom: 20px;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+    clear: both;
+}
+#tribute-info {
+    position: relative;
+    max-width: 60%;
+    margin: auto;
+    clear: both;
+}
+ul>li {
+    margin-bottom: 20px;
+}
